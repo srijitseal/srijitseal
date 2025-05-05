@@ -4,9 +4,9 @@
 
   
 ##### About me 
-I am a researcher in chemoinformatics, centered on using machine learning techniques, particularly modeling, and interpretation of the Cell Painting assay, to predict drug bioactivity, safety, and toxicity.
-I am currently based at Broad Institute of MIT and Harvard where I am advised by Anne Carpenter and Shantanu Singh.
-I am also a final year Ph.D. student at the University of Cambridge where I am advised by Andreas Bender
+I am a researcher in chemoinformatics. My research focuses on using machine learning techniques, particularly modeling and interpretation of the Cell Painting assay, to predict drug bioactivity, safety, and toxicity.
+I did my postdoc at the Broad Institute of MIT and Harvard, where Anne Carpenter and Shantanu Singh advised me.
+I completed my Ph.D. at the University of Cambridge, where I was advised by Andreas Bender
 
 ##### Personal Website - (https://srijitseal.com)
   
